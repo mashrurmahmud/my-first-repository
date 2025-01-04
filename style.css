@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.robi{
+    width: 700px;
+    height: 800px;
+    background-color: tomato;
+}
+
+.robi p{
+    background-color: blue;
+    color: tomato;
+    height: 300px;
+
+}
